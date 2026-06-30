@@ -71,3 +71,24 @@ to a technology investment.
 ---
 
 ## Folder Structure
+
+retail-self-checkout-ba-case-study/
+├── README.md
+├── BRD/
+│   └── Greenfield_Stores_BRD.pdf
+├── Process-Maps/
+│   ├── AS-IS_Swimlane.pdf
+│   └── TO-BE_Swimlane.pdf
+├── Stakeholder-Register/
+│   └── Stakeholder_Register_RACI.pdf
+├── Data/
+│   ├── illustrative_dataset.csv
+│   └── data_dictionary.xlsx
+└── Dashboard/
+└── dashboard.html
+
+---
+
+*This is a portfolio project created to demonstrate BA methodology. 
+Greenfield Stores is a fictional organisation. All store-level data 
+is illustrative.*
