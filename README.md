@@ -1,4 +1,4 @@
-# Retail Self-Checkout Loss Reduction — BA Case Study
+# Retail Self-Checkout Loss Reduction - BA Case Study
 
 **Organisation:** Greenfield Stores (fictional retail chain)  
 **Analyst:** Shravan Kanamadi  
